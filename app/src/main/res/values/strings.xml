@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">User Manager</string>
+
+    <string name="no_internet">No Internet Connection!</string>
+    <string name="add_user">Add user</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="active">Active</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    <string name="remove_message">Are you sure you want to remove this user?</string>
+</resources>

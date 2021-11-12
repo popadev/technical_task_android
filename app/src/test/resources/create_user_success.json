@@ -1,0 +1,10 @@
+{
+  "meta": null,
+  "data": {
+    "id": 1691,
+    "name": "Test Test",
+    "email": "test@test.com",
+    "gender": "male",
+    "status": "active"
+  }
+}

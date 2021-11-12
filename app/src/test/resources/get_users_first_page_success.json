@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "pagination": {
+      "total": 1433,
+      "pages": 72,
+      "page": 1,
+      "limit": 20,
+      "links": {
+        "previous": null,
+        "current": "https://gorest.co.in/public/v1/users?page=1",
+        "next": "https://gorest.co.in/public/v1/users?page=2"
+      }
+    }
+  },
+  "data": [
+    {
+      "id": 7,
+      "name": "Vishwamitra gowda",
+      "email": "gowda_vishwamitra@zieme.co",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 8,
+      "name": "Pres. Aayushmaan panicker",
+      "email": "panicker_pres_aayushmaan@reinger.name",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 11,
+      "name": "Rev. Rohana gill",
+      "email": "rohana_gill_rev@halvorson.net",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 13,
+      "name": "Atmananda desai",
+      "email": "desai_atmananda@weimann.biz",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 18,
+      "name": "Durga Sethi lld",
+      "email": "durga_sethi_lld@hoppe.com",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 19,
+      "name": "Gov. Tushar achari",
+      "email": "gov_tushar_achari@morissette.net",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 20,
+      "name": "Girish guneta",
+      "email": "guneta_girish@blick.org",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 27,
+      "name": "Indira bandopadhyay",
+      "email": "indira_bandopadhyay@torp.com",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 22,
+      "name": "Tanushri Pothuvaal do",
+      "email": "tanushri_do_pothuvaal@lowe-ratke.name",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 23,
+      "name": "Kumari varma",
+      "email": "varma_kumari@hartmann.co",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 24,
+      "name": "Nimit nayar",
+      "email": "nayar_nimit@barton.org",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 25,
+      "name": "Amb. Baidehi trivedi",
+      "email": "baidehi_amb_trivedi@zieme-renner.net",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "id": 26,
+      "name": "Kali deshpande",
+      "email": "deshpande_kali@predovic.net",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 28,
+      "name": "Miss Vaijayanthi adiga",
+      "email": "vaijayanthi_miss_adiga@johnson-feil.net",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "id": 29,
+      "name": "Rohana Gowda lld",
+      "email": "rohana_lld_gowda@lubowitz.io",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 30,
+      "name": "Prathamesh talwar",
+      "email": "talwar_prathamesh@crist.biz",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "id": 31,
+      "name": "Ananta tagore",
+      "email": "tagore_ananta@cassin.info",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 32,
+      "name": "Gemine mehrotra",
+      "email": "mehrotra_gemine@swaniawski-schinner.biz",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 33,
+      "name": "Amaranaath patel",
+      "email": "patel_amaranaath@kihn.net",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 34,
+      "name": "Yoginder marar",
+      "email": "yoginder_marar@weimann.name",
+      "gender": "female",
+      "status": "inactive"
+    }
+  ]
+}

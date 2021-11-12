@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <variable
+            name="user"
+            type="com.sliide.usermanager.model.User" />
+
+    </data>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/selectableItemBackground"
+        android:minHeight="88dp">
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:padding="16dp"
+            app:srcCompat="@drawable/ic_round_account_circle_40" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/text_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toStartOf="@+id/text_status"
+            android:layout_toEndOf="@+id/image"
+            android:ellipsize="end"
+            android:gravity="center_vertical"
+            android:maxLines="1"
+            android:paddingTop="16dp"
+            android:paddingEnd="16dp"
+            android:text="@{user.name}"
+            android:textAppearance="?attr/textAppearanceSubtitle1" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/text_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/text_name"
+            android:layout_alignParentEnd="true"
+            android:gravity="center_vertical"
+            android:maxLines="1"
+            android:paddingEnd="16dp"
+            android:text="@{user.status}"
+            android:textAppearance="?attr/textAppearanceBody2" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/text_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/text_name"
+            android:layout_toEndOf="@+id/image"
+            android:gravity="center_vertical"
+            android:maxLines="1"
+            android:paddingEnd="16dp"
+            android:text="@{user.email}"
+            android:textAppearance="?attr/textAppearanceBody2"
+            android:textColor="@android:color/darker_gray" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/text_gender"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/text_email"
+            android:layout_toEndOf="@+id/image"
+            android:gravity="center_vertical"
+            android:maxLines="1"
+            android:paddingEnd="16dp"
+            android:text="@{user.gender}"
+            android:textAppearance="?attr/textAppearanceBody2"
+            android:textColor="@android:color/darker_gray" />
+
+    </RelativeLayout>
+
+</layout>

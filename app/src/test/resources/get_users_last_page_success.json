@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "pagination": {
+      "total": 1437,
+      "pages": 72,
+      "page": 72,
+      "limit": 20,
+      "links": {
+        "previous": "https://gorest.co.in/public/v1/users?page=71",
+        "current": "https://gorest.co.in/public/v1/users?page=72",
+        "next": "https://gorest.co.in/public/v1/users?page=73"
+      }
+    }
+  },
+  "data": [
+    {
+      "id": 1485,
+      "name": "API monitoring:1qy2n",
+      "email": "apimonitoring1qy2n@synthetic.com",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 1591,
+      "name": "hammad",
+      "email": "hammadm",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 1592,
+      "name": "API monitoring:yzq31qv",
+      "email": "apimonitoringyzq31qv@synthetic.com",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 1484,
+      "name": "tenali",
+      "email": "tenali.dsffrasamakwaesrishsdfna",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 1609,
+      "name": "API monitoring:3rp4eb",
+      "email": "apimonitoring3rp4eb@synthetic.com",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 1491,
+      "name": "API monitoring:dkgbt",
+      "email": "apimonitoringdkgbt@synthetic.com",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 1495,
+      "name": "API monitoring:cgozob",
+      "email": "apimonitoringcgozob@synthetic.com",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 1613,
+      "name": "piku89",
+      "email": "p890",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 1614,
+      "name": "API monitoring:556vtd",
+      "email": "apimonitoring556vtd@synthetic.com",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 1499,
+      "name": "API monitoring:5bmg9n",
+      "email": "apimonitoring5bmg9n@synthetic.com",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 1503,
+      "name": "API monitoring:hw3ckj",
+      "email": "apimonitoringhw3ckj@synthetic.com",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 1504,
+      "name": "naveen",
+      "email": "naveen",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 1507,
+      "name": "API monitoring:9r6eqg",
+      "email": "apimonitoring9r6eqg@synthetic.com",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 1509,
+      "name": "abhay",
+      "email": "abhay123",
+      "gender": "female",
+      "status": "inactive"
+    }
+  ]
+}
